@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class LoginServlet
  */
-@WebServlet("/login")
+@WebServlet("/login2")
 public class LoginServlet extends HttpServlet {
     public void init(ServletConfig config) throws ServletException {
         System.out.println("init 실행");
